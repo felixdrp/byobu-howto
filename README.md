@@ -3,8 +3,8 @@
 [Byobu](http://byobu.co/byobu.wav) is a light, powerful, text-based window manager based on [GNU Screen](http://www.gnu.org/software/screen/). Using Byobu, you can quickly create and move between different windows over a single SSH connection or TTY terminal, monitor dozens of important statistics about your system, detach and reattach to sessions later while your programs continue to run in the background. 
 ## Basic key bindings
 
-* move to pane  [Shift] + UP/Down arrow
-* maximize pane  [Shift] + F11
+* move to pane  [Shift] + Left/Right/UP/Down arrow
+* Zoom into/out of a pane  [Shift] + F11
 
 * Scroll back through this window's history  [Alt] + Pageup
 * Scroll forward through this window's history  [Alt] + Pagedown
@@ -17,3 +17,6 @@
 
 
 [Screen 5.1 Default Key Bindings](https://www.gnu.org/software/screen/manual/html_node/Default-Key-Bindings.html)
+
+
+[Byobu Keybindings Cheat Sheet by mikemikk](https://www.cheatography.com/mikemikk/cheat-sheets/byobu-keybindings/)
