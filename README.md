@@ -10,6 +10,7 @@
 * Scroll forward through this window's history  [Alt] + Pagedown
 
 * Kill window   [Ctrl] + a  k
+* Kill split in focus  [Ctrl] + F6
 
 ## List "convenient keybindings"
 
