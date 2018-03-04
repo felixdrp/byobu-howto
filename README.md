@@ -18,7 +18,7 @@ You can:
 cat /usr/share/doc/byobu/help.tmux.txt
 ```
 
-
+```
 Byobu is a suite of enhancements to tmux, as a command line
 tool providing live system status, dynamic window management,
 and some convenient keybindings:
@@ -68,6 +68,7 @@ and some convenient keybindings:
     Alt-F12                      Toggle on/off Byobu's mouse support
     Ctrl-Shift-F12               Mondrian squares
 /usr/share/doc/byobu/help.tmux.txt (END)
+```
 
 [Thanks to Dustin Kirkland](https://askubuntu.com/users/4733/dustin-kirkland)
 
